@@ -1,2 +1,2 @@
 #!/bin/bash
-drwx --- --- /hello
+chmod u+x /hello/hello
